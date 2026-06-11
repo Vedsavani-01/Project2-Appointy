@@ -34,6 +34,7 @@ const Footer = () => {
             <li>+91-90000-90000</li>
             <li>customersupport@appointy.in</li>
               <li>Ved savani</li>
+              <li><b>Ved savani</b></li>
           </ul>
         </div>
       </div>
